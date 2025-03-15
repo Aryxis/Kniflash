@@ -7,9 +7,9 @@
 ├── figs                <-- 在 PA2.md 中使用的图片
 │   └── ...
 ├── PA2 criteria.md     <-- PA2 评分标准
-├── PA2 criteria.       <-- PA2 criteria.md 导出 PDF
+├── PA2 criteria.pdf    <-- PA2 criteria.md 导出的 PDF
 ├── PA2.md              <-- PA2 手册
-├── PA2.pdf             <-- PA2.md 导出 PDF
+├── PA2.pdf             <-- PA2.md 导出的 PDF
 ├── LICENSE
 └── README.md
 ```
