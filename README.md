@@ -4,12 +4,12 @@
 
 ```text
 .
-├── figs				<-- 在 PA2.md 中使用的图片
+├── figs                <-- 在 PA2.md 中使用的图片
 │   └── ...
-├── PA2 criteria.md		<-- PA2 评分标准
-├── PA2 criteria.pdf	<-- PA2 criteria.md 导出 PDF
-├── PA2.md				<-- PA2 手册
-├── PA2.pdf				<-- PA2.md 导出 PDF
+├── PA2 criteria.md     <-- PA2 评分标准
+├── PA2 criteria.       <-- PA2 criteria.md 导出 PDF
+├── PA2.md              <-- PA2 手册
+├── PA2.pdf             <-- PA2.md 导出 PDF
 ├── LICENSE
 └── README.md
 ```
@@ -20,6 +20,10 @@
 > 2. 示例代码我会在近期写完之后上传，可能还会根据手册的变动更改😴。
 
 ## Something TBD
+
+> [!TIP]
+>
+> 非常欢迎大家的建议和反馈😊。大到对整体架构的优化建议，小到对文档中某句话的语气、表达清晰度，甚至是标点符号、空格等排版细节的改进意见，都可以随时在群内提出或通过提交 issue 的方式反馈。我会及时查看并回复，让我们一起努力，将 PA2 打磨得更加完善🥳！
 
 **各阶段的内容，分数构成，验收时间，验收内容等仍需进一步讨论。**
 
