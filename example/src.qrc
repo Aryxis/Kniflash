@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>figs/capoo.gif</file>
+        <file>figs/background.jpg</file>
+    </qresource>
+</RCC>
